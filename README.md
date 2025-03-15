@@ -4,7 +4,7 @@ This project implements a Convolutional Neural Network (CNN) for lung cancer det
 ## Images
 ![lung tissue images](images/lung_cancer_images.png)
 
-![test image](images/test_image.png)
+![test image](images/test_image.jpg)
 
 ![prediction](images/prediction.png)
 
