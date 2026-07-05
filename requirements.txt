@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+tensorflow
+opencv-python-headless
+numpy
+python-multipart
+streamlit
+requests
+pillow
+
+# pip install -r requirements.txt
