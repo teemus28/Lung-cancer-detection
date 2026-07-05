@@ -5,7 +5,7 @@ import requests
 # CONFIG
 # =====================================================
 
-BACKEND_URL = "http://localhost:8000"
+BACKEND_URL = "https://lung-cancer-detection-2rzx.onrender.com"
 
 CLASS_LABELS = {
     "lung_adenocarcinomas": "Lung Adenocarcinoma",
